@@ -1,4 +1,4 @@
-# analytics_app
+# Analytics_app
 
 A new Flutter project.
 
